@@ -1,0 +1,19 @@
+[DOCUMENTATION]
+ORG_NAME="Verge Gold"
+ORG_URL="https://verge-gold.com"
+ORG_LOGO="https://verge-gold.com/wp-content/uploads/2019/07/vs.png"
+ORG_DESCRIPTION="Optimizing digital payment that make transactions much faster and more secure with lowest transaction fee."
+ORG_TWITTER="https://twitter.com/vergegold"
+ORG_GITHUB="https://github.com/VergeGold"
+ORG_OFFICIAL_EMAIL="support@verge-gold.com"
+
+[[CURRENCIES]]
+code="VER"
+issuer="GDIOJHRC5AAEPOIP4QCPVN5ERKDYKD73EVHK3RDUZS7UDWLAQJ7V3TOP"
+display_decimals=7
+name="Verge Gold"
+desc="Optimizing digital payment that make transactions much faster and more secure with lowest transaction fee."
+conditions="Total issued 27,777,000,000 VER. Further emission is not possible."
+image="https://verge-gold.com/wp-content/uploads/2019/07/vs.png"
+status="live"
+fixed_number=27777000000
